@@ -1,0 +1,2 @@
+598,123405,Siti Rahayu,Bandung,101,Aku Bukan Kamu,R. Aji Sukar,2023,0,meninjam
+741,123405,Siti Rahayu,Bandung,101,Aku Bukan Kamu,R. Aji Sukar,2023,120,meninjam

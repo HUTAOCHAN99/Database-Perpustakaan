@@ -1,0 +1,1 @@
+ cout << "Jumlah eksemplar : " << b.jumlah_eksemplar << endl;

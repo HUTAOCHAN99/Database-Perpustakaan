@@ -1,0 +1,10 @@
+123401,Ahmad Hasbi,jogja ,089339165712,15 Juni 2004,Anggota
+123402,Rizky Aji Hariyanto,Ngepeng ,088284093783,17 Agustus 2004,Anggota
+123403,Dewi Lestari,Surabaya,081234567890,3 Mei 2003,Anggota
+123404,Budi Santoso,Jakarta,085678901234,12 Januari 2005,Anggota
+123405,Siti Rahayu,Bandung,087654321098,20 Maret 2004,Anggota
+123406,Agus Setiawan,Semarang,089876543210,5 November 2003,Anggota
+123407,Anita Sari,Medan,082345678901,18 September 2005,Anggota
+123408,Rudi Wijaya,Palembang,081112233445,9 Juli 2004,Anggota
+123409,Tini Susanti,Makassar,088998877665,14 Februari 2005,Anggota
+123410,Indra Permana,Bandung,087712345678,28 Desember 2003,Anggota
